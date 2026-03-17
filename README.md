@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/pratyushranjanbehera1/pratyushranjanbehera1/refs/heads/main/devasnanapurnima-1749629053272_d.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/pratyushranjanbehera1/pratyushranjanbehera1/main/devasnanapurnima-1749629053272_d.jpg" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Pratyush Ranjan Behera</h1>
@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech in Computer Science (AI-ML)  
 - 🧠 Focused on **Artificial Intelligence & Computer Vision**  
-- 📸 Interested in **Image Processing, Object Detection & Deep Learning**  
+- 📸 Interested in **Image Processing & Deep Learning**  
 - 🛠️ Working with **Python, OpenCV, NumPy**  
 - 🚀 Building real-world AI applications  
 
@@ -45,33 +45,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pratyushranjanbehera1&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## ⏱️ Coding Time (Wakatime)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pratyushranjanbehera1&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushranjanbehera1&theme=github-dark"/>
-
----
-
-## 🔥 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/pratyushranjanbehera1/pratyushranjanbehera1/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
