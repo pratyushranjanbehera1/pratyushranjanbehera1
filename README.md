@@ -1,3 +1,7 @@
+<p align="center">
+<img src="YOUR_IMAGE_LINK_HERE" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Pratyush Ranjan Behera</h1>
 <h3 align="center">AI & Computer Vision Enthusiast | Python Developer</h3>
 
