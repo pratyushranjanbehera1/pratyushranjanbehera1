@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://raw.githubusercontent.com/pratyushranjanbehera1/pratyushranjanbehera1/main/devasnanapurnima-1749629053272_d.jpg](https://raw.githubusercontent.com/pratyushranjanbehera1/pratyushranjanbehera1/refs/heads/main/banner.png)" width="100%">
+  <img src="https://raw.githubusercontent.com/pratyushranjanbehera1/pratyushranjanbehera1/refs/heads/main/banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Pratyush Ranjan Behera</h1>
