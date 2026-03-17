@@ -13,29 +13,7 @@
 - 🧠 Focused on **Artificial Intelligence & Computer Vision**  
 - 📸 Interested in **Image Processing, Object Detection & Deep Learning**  
 - 🛠️ Working with **Python, OpenCV, NumPy**  
-- 🚀 Building projects that solve **real-world problems**  
-
----
-
-## 🚀 Technical Focus
-
-- **Computer Vision** → Image Processing, Object Detection  
-- **Machine Learning** → Model Building, Data Analysis  
-- **Programming** → Python, Basic Web  
-- **Tools** → Git, Linux, VS Code  
-
----
-
-## 📌 Projects
-
-### 🔹 Object Detection System *(In Progress)*
-- YOLO + OpenCV based real-time detection  
-
-### 🔹 Image Classification Model
-- Built using ML techniques on custom dataset  
-
-### 🔹 Python Mini Projects
-- Logic-based applications and utilities  
+- 🚀 Building real-world AI applications  
 
 ---
 
@@ -67,17 +45,33 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pratyushranjanbehera1&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## ⏱️ Coding Time (Wakatime)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pratyushranjanbehera1&theme=tokyonight" />
+</p>
+
+---
+
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushranjanbehera1&theme=github-dark"/>
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Contribution Snake
 
-- Improving **Computer Vision skills**  
-- Learning **Deep Learning (CNNs)**  
-- Building **real-time AI applications**  
+<p align="center">
+<img src="https://raw.githubusercontent.com/pratyushranjanbehera1/pratyushranjanbehera1/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
