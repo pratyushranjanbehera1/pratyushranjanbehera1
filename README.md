@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/pratyushranjanbehera1/pratyushranjanbehera1/refs/heads/main/banner.png" width="100%">
 </p>
 
+<h1 align="center">Jai Jagannath/h1>
 <h1 align="center">Hi 👋, I'm Pratyush Ranjan Behera</h1>
 <h3 align="center">AI & Computer Vision Enthusiast | Python Developer</h3>
 
