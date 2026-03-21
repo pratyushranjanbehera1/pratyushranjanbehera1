@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratyushom1/pratyushom1/refs/heads/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/pratyushom1/pratyushom1/refs/heads/main/Banner.png" width="1000%">
 </p>
 
 <h1 align="center">Jai Jagannath</h1>
